@@ -1,0 +1,16 @@
+[aa, cc, bb]
+true true
+[1, 8, 1, 2, 4]
+[1, 3]
+[2, 3]
+[aligator, mosquito, potato, tomato]
+2
+alberto
+FEBMARENEABR
+ABRENEFEBMAR-30312831
+null-false
+1979
+[1, 2, 11, 33]
+1 2
+1
+2 1 3
